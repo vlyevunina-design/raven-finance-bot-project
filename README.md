@@ -27,13 +27,15 @@ W ramach projektu:
 
 - dodawanie dochodów i wydatków,
 - automatyczna kategoryzacja transakcji,
+- statystyki finansowe
+- rekomendacje oszczędnościowe
 - obsługa wiadomości tekstowych,
 - obsługa wiadomości głosowych Voice-to-Text,
 - usuwanie wybranych zapisów.
 
 ## Wyniki techniczne
 
-W okresie testowania odnotowano 243 uruchomienia workflow, 8 nieudanych uruchomień oraz wskaźnik błędów na poziomie 3,29%. Średni czas wykonania jednego zapytania wyniósł 6,75 sekundy.
+W okresie testowania odnotowano 643 uruchomienia workflow, 18 nieudanych uruchomień oraz wskaźnik błędów na poziomie 2,80%. Średni czas wykonania jednego zapytania wyniósł 6,75 sekundy.
 
 ## Ochrona danych
 
